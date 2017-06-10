@@ -3,7 +3,7 @@ import java.io.FileNotFoundException;
 import java.io.FileInputStream;
 
 
-public class HydroCalculator{
+public class hydroCalculator{
 
 	public static int BILLING_CYCLE = 60; //Billing cycle in days (approximate)
 	public static double STAGE_TWO_DAY = 22.1918; //Approximate KWH a day where you can hit stage two prices
